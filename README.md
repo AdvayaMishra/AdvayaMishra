@@ -3,20 +3,20 @@
   # Hi there, I'm Advaya Mishra 👋
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Engineering+Student+%40+RVCE+Bangalore;Java+%7C+C+%2F+C%2B%2B+%7C+DSA;Solving+Problems+%26+Building+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=CSE+%40+RV+College+of+Engineering%2C+Bangalore;Class+of+2029+%7C+Java+%26+C%2FC%2B%2B;DSA+%7C+LeetCode+%7C+Building+Projects" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  **Engineering @ RV College of Engineering, Bangalore**  
+  **CSE @ RV College of Engineering, Bangalore · Class of 2029**  
   *Java · C / C++ · Data Structures & Algorithms · Software Engineering*
 
   <br/>
 
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdvayaMishra)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advaya-mishra-a51473380/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dKxLX1s7aw/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adimishra1214@gmail.com)
 
 </div>
 
@@ -24,21 +24,21 @@
 
 ### 🚀 About Me
 
-I am an engineering student at **RV College of Engineering (RVCE), Bangalore**, passionate about core computer science, software engineering fundamentals, and systems programming. 
+I am a Computer Science & Engineering student at **RV College of Engineering (RVCE), Bangalore** (Class of 2029), building a strong foundation in core software engineering, object-oriented programming, and systems concepts.
 
-- 💻 I write code primarily in **Java** and **C**, and I am actively exploring **C++**.
-- 🧩 Currently deepening my problem-solving skills through **Data Structures and Algorithms (DSA) in Java** on **LeetCode**.
-- 🛠️ I believe the best way to master computer science is by **building things from scratch** — starting with modular console applications and steadily stepping up to real-world software systems.
-- 🎯 Keen on collaborating, learning best software practices, and exploring open-source software development.
+- 💻 Primary languages: **Java** and **C**, actively expanding into **C++**.
+- 🧩 Currently deepening my problem-solving ability through **Data Structures and Algorithms (DSA) in Java** on **LeetCode**.
+- 🛠️ I learn best by **building from the ground up** — starting with clean, modular console applications and stepping up toward scalable software solutions.
+- 🎯 Always eager to collaborate on real-world projects and explore open-source development.
 
 ---
 
 ### ⚡ Current Focus
 
 - ☕ **Data Structures & Algorithms in Java**: Mastering arrays, linked lists, recursion, trees, graphs, and dynamic programming.
-- 💡 **LeetCode & Problem Solving**: Developing a daily habit of tackling algorithmic challenges and optimizing space/time complexity.
-- ⚙️ **C & C++ Programming**: Understanding memory management, pointers, and foundational system concepts.
-- 🏗️ **Hands-on Projects**: Transitioning from foundational games and utilities into larger, architecture-driven applications.
+- 💡 **LeetCode Practice**: Consistently solving algorithmic problems to build strong analytical and complexity-optimization intuition.
+- ⚙️ **C & C++ Programming**: Gaining a deeper understanding of low-level memory management and pointer mechanics.
+- 🏗️ **Project Development**: Transitioning from foundational games and utilities into larger, architecture-driven applications.
 
 ---
 
@@ -65,15 +65,13 @@ I am an engineering student at **RV College of Engineering (RVCE), Bangalore**, 
 
 ### 🧩 Problem Solving & LeetCode
 
-I am actively practicing problem-solving skills and DSA on LeetCode:
+I practice DSA and problem solving consistently on [LeetCode](https://leetcode.com/u/dKxLX1s7aw/):
 
 <p align="center">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/dKxLX1s7aw/">
+    <img src="https://leetcard.jacoblin.cool/dKxLX1s7aw?theme=dark&font=baloo&ext=heatmap" alt="Advaya's LeetCode Statistics" />
   </a>
 </p>
-
-> *(Replace `YOUR_LEETCODE_USERNAME` with your LeetCode handle in the link above to dynamically display your badge and streak!)*
 
 ---
 
@@ -84,7 +82,7 @@ Here are a few projects I've built while strengthening my Java fundamentals and 
 #### 🎮 [TicTacToe](https://github.com/AdvayaMishra/TicTacToe) — *built*
 A clean, modular console-based Tic-Tac-Toe game in Java.
 - **Tech:** Java · OOP
-- **Highlights:** 3x3 dynamic grid display, alternating two-player turn management, robust input validation, and win/draw detection algorithms across rows, columns, and diagonals.
+- **Highlights:** 3x3 dynamic grid display, alternating two-player turns, robust input validation, and win/draw detection algorithms across rows, columns, and diagonals.
 
 #### 🔢 [GuessTheNumber](https://github.com/AdvayaMishra/GuessTheNumber) — *built*
 An interactive number guessing game exploring core language mechanics.
@@ -126,13 +124,13 @@ Currently architecting a new application focusing on algorithmic data visualizat
 ### 📬 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/advaya-mishra-a51473380/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/dKxLX1s7aw/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:adimishra1214@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
