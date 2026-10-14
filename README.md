@@ -86,7 +86,14 @@ I practice DSA and problem solving consistently on [LeetCode](https://leetcode.c
 
 ### 📂 Featured Projects
 
-Here are a few projects I've built while strengthening my Java fundamentals and object-oriented design:
+#### 🏠 [HostelHub](https://github.com/AdvayaMishra/HostelHub) — *built*
+A mobile-first hostel management and campus services platform designed to bring everyday hostel operations, authentication, and service requests into a single application.
+- **Tech:** Flutter · Dart · Supabase · PostgreSQL · Squidex CMS
+- **Features:**
+  - Multi-role authentication & digital student ID management (Student, Warden, Staff, Canteen)
+  - Campus night canteen with real-time food availability, cart management, and payment support
+  - Maintenance & service ticket handling with live status tracking
+  - Supabase Row-Level Security (RLS) & private cloud storage for sensitive documents
 
 #### 🎮 [TicTacToe](https://github.com/AdvayaMishra/TicTacToe) — *built*
 A clean, modular console-based Tic-Tac-Toe game in Java.
@@ -102,9 +109,6 @@ An interactive number guessing game exploring core language mechanics.
 A classic interactive CLI game pitting the player against a randomized computer opponent.
 - **Tech:** Java
 - **Highlights:** Scanner-based input handling, decision logic, and modular scoring.
-
-#### 🚀 *Next Project in Progress...*
-Currently architecting a new application focusing on algorithmic data visualization and backend system design.
 
 ---
 
