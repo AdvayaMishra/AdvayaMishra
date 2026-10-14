@@ -15,7 +15,7 @@
 
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdvayaMishra)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advaya-mishra-a51473380/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dKxLX1s7aw/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/advcodes/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adimishra1214@gmail.com)
 
 </div>
@@ -74,11 +74,11 @@ I am a Computer Science & Engineering student at **RV College of Engineering (RV
 
 ### 🧩 Problem Solving & LeetCode
 
-I practice DSA and problem solving consistently on [LeetCode](https://leetcode.com/u/dKxLX1s7aw/):
+I practice DSA and problem solving consistently on [LeetCode](https://leetcode.com/u/advcodes/):
 
 <p align="center">
-  <a href="https://leetcode.com/u/dKxLX1s7aw/">
-    <img src="https://leetcard.jacoblin.cool/dKxLX1s7aw?theme=dark&font=baloo&ext=heatmap" alt="Advaya's LeetCode Statistics" />
+  <a href="https://leetcode.com/u/advcodes/">
+    <img src="https://leetcard.jacoblin.cool/advcodes?theme=dark&font=baloo" alt="Advaya's LeetCode Statistics" />
   </a>
 </p>
 
@@ -140,7 +140,7 @@ A classic interactive CLI game pitting the player against a randomized computer 
   <a href="https://www.linkedin.com/in/advaya-mishra-a51473380/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/dKxLX1s7aw/" target="_blank">
+  <a href="https://leetcode.com/u/advcodes/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:adimishra1214@gmail.com">
